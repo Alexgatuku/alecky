@@ -3,12 +3,13 @@ var images=[];
 var time=3000;
 
 images [0]='j6.png';
-images [1]='OPPO F7.png';
-images [2]='lapshop.jpg';
-images [3]='S8.jpg';
-images [4]='lap3.jpg';
-images [5]='watch.jpg';
-images [6]='watch1.jpg';
+images [1]='hp.jpg';
+images [2]='OPPO F7.png';
+images [3]='lapshop.jpg';
+images [4]='S8.jpg';
+images [5]='lap3.jpg';
+images [6]='watch.jpg';
+images [7]='watch1.jpg';
 
 function changeImg(){
     document.slide.src=images[i];
