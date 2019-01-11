@@ -2,13 +2,13 @@ var i=0;
 var images=[];
 var time=3000;
 
-images [0]='iphone 5.6.jpg';
-images [1]='hp.jpg';
+images [0]='watch.jpg';
+images [1]='iphone 5.6.jpg';
 images [2]='OPPO F7.png';
-images [3]='lapshop.jpg';
+images [3]='hp.jpg';
 images [4]='S8.jpg';
 images [5]='lap3.jpg';
-images [6]='watch.jpg';
+images [6]='lapshop.jpg';
 images [7]='watch1.jpg';
 
 function changeImg(){
