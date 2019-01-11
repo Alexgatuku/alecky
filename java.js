@@ -2,7 +2,7 @@ var i=0;
 var images=[];
 var time=3000;
 
-images [0]='j6.png';
+images [0]='J6.png';
 images [1]='hp.jpg';
 images [2]='OPPO F7.png';
 images [3]='lapshop.jpg';
